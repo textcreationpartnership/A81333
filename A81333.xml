@@ -1,0 +1,231 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true speech delivered on the scaffold by Iames Earl of Derby, in the market-place at Boulton in Lancashire, on vvednesday last, being the 15. of this instant October, 1651. With the manner of his deportment and carrage on the scaffold: his speech concerning the King of Scots. And his prayer immediately before his head was severed from his body. As also his declaration and desires to the people. Likewise, the manner how the King of Scots took shipping at Graves-end, on the fourth of this instant October, with Captain Hind, disguised in sea-mens apparel, and safely arrived at the Hague in Holland. Published by Authority.</title>
+            <author>Derby, James Stanley, Earl of, 1607-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81333</idno>
+            <idno type="STC">Wing D1094</idno>
+            <idno type="STC">Thomason E643_19</idno>
+            <idno type="STC">ESTC R206007</idno>
+            <idno type="EEBO-CITATION">99865215</idno>
+            <idno type="PROQUEST">99865215</idno>
+            <idno type="VID">117452</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117452)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E643[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true speech delivered on the scaffold by Iames Earl of Derby, in the market-place at Boulton in Lancashire, on vvednesday last, being the 15. of this instant October, 1651. With the manner of his deportment and carrage on the scaffold: his speech concerning the King of Scots. And his prayer immediately before his head was severed from his body. As also his declaration and desires to the people. Likewise, the manner how the King of Scots took shipping at Graves-end, on the fourth of this instant October, with Captain Hind, disguised in sea-mens apparel, and safely arrived at the Hague in Holland. Published by Authority.</title>
+                  <author>Derby, James Stanley, Earl of, 1607-1651.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Eles, for general satisfaction to the people,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Derby, Edward Stanley, --  Earl of, 1689-1776.</term>
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>Hind, James, d. 1652.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117452:1" rendition="simple:additions"/>
+            <p>THE TRUE SPEECH Delivered on the SCAFFOLD BY Iames Earl of Derby, IN The Market-place at <hi>Boulton</hi> in LAN<g ref="char:EOLhyphen"/>CASHIRE, on vvedneſday laſt, being the 15. of this inſtant October, 1651.</p>
+            <p>WITH The manner of his deportment and Carrage on the Scaffold: his Speech concerning the King of <hi>Scots.</hi> And his prayer immediately before his Head was ſevered from his Body. As alſo his Declaration and Deſires to the People.</p>
+            <p>Likewiſe, the manner how the King of Scots took ſhipping at <hi>Graveſ-end,</hi> on the fourth of this inſtant <hi>October,</hi> with <hi>Captain Hind,</hi> diſguiſed in Sea-mens Apparel, and ſafely arrived at the <hi>Hague</hi> in <hi>Holland.</hi>
+            </p>
+            <p>PUBLISHED BY AUTHORITY.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Robert Eles,</hi> for general ſatisfaction to the People.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:117452:2"/>
+            <pb n="1" facs="tcp:117452:2"/>
+            <head>A Speech delivered on the Scaffold in the Market place at <hi>Boulton</hi> in <hi>Lancaſhire</hi> by JAMES Earl of DERBY, on <hi>Wedneſday</hi> laſt, being the fifteenth of this inſtant <hi>October,</hi> 1651.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N <hi>Wedneſday</hi> laſt being the fifteenth of this inſtant <hi>October,</hi> the Earl of <hi>Der<g ref="char:EOLhyphen"/>by</hi> was brought to the place of exe<g ref="char:EOLhyphen"/>cution, (the Scaffold being erected and ſet up in the place where the <hi>Croſs</hi> formerly ſtood) attended by divers Gentlemen and others; And where were preſent many hundreds of People, who came from ſeverall parts adiacent to behold this Object of compaſſion. As ſoon as his Lord<g ref="char:EOLhyphen"/>ſhip came upon the Scaffold, he took up the Block, and kiſſed it, ſaying; I hope there is no more but this Block between Me and Heaven; and I hope I ſhall never tire in my way, nor go out of it. Then turning to the People, and putting off his hat, he ſpake as followeth:</p>
+            <p>
+               <hi>Chriſtian Gentlemen, and People;</hi>
+            </p>
+            <p>YOur buſineſs hither to day, is to ſee a ſad Spectacle, a Peer of the Land to be in a moment unman'd, and cut off by an untimely-end: And though truly, if my general courſe of life were but inquired into, I may modeſtly ſay, there is ſuch a morall honeſty upon it, as ſome may be ſo pe<g ref="char:EOLhyphen"/>remptory as to expoſtulate why this great judgment is fall'n upon me: But know, that I am able to give them and my ſelf an anſwer, and out of this breaſt (laying his hand upon his heart) to give a better accompt of
+<pb n="2" facs="tcp:117452:3"/> my Judgment and Execution then my Judgers themſelves or you are able to give; It is Gods wrath upon me for ſins long unrepented, of many judg<g ref="char:EOLhyphen"/>ments withſtood and mercies flighted; therefore God hath whipped me by his ſevere rod of correction, that he might not looſe me; I pray joyn with me in prayer, that it may not be a fruitleſs rod, that when by this rod I have laid down my life, by this ſtaffe I may be comforted, and received into glory.</p>
+            <p>As for my accuſers, I am ſorry for them, they have committed <hi>Judas</hi> his crime; but I wiſh and pray for them <hi>Peters tears,</hi> that by <hi>Peters</hi> repentance they may eſcape <hi>Judas</hi> his puniſhment, and I wiſh other people ſo happy, they may be taken up betimes, before they have drunk more blood of <hi>Chriſtian</hi> men, poſſibly leſs deſerving then my ſelf</p>
+            <p>It is true, there have been ſeverall addreſſes made for mercy, and I will put the obſtruction of it upon nothing more then upon my own ſin, and ſeeing God ſees it not fit (I having not glorified him in my life) I might do it in my death, which I am content to do. I profeſs in the face of God, no particular malice to any one of the State or Parliament, to do them a bodily injury I had none.</p>
+            <p>For the cauſe in which I had a great while waded, I muſt needs ſay, my engagement or continuance in it hath laid ho ſcruple upon my Conſcience, it was on principles of Law, the knowledgment whereof I embrace, and on principalls of <hi>Religion,</hi> my <hi>judgment</hi> ſatisfied, and <hi>Conſcience</hi> rectified, that I have purſued thoſe wayes for which I bleſs God I find no blackneſs upon my Conſcinnce, nor have I put it into the bead-roll of my ſins.</p>
+            <p>I will not preſume to d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſide controverſies; I deſire God to honour him<g ref="char:EOLhyphen"/>ſelf in proſpering that ſide that hath right with it, and that you may enjoy peace and plenty, when I ſhall enjoy peace and plenty, beyond all you poſ<g ref="char:EOLhyphen"/>ſeſs here: in my converſation in the world, I do not know where I have an enemy with cauſe, or that there is ſuch a perſon to whom I have a regret; but it there be any whom I cannot recollect, under the notion of <hi>Chriſtian</hi> men I pardon them, as freely as if I had named them by name, I freely for<g ref="char:EOLhyphen"/>give them, being in free peace with all the world, as I deſire God for Chriſts ſake, to be at peace with me. For the buſines of death, it is a ſad ſentence in it ſelf, if men conſult with fleſh and blood: But truly without boaſting, I ſay it, or if I do boaſt, I boaſt in the Lord, I have not to this minute, had one conſultaton with the fleſh about the blow of the <hi>Ax,</hi> or one thought of the <hi>Ax,</hi> more then as my Paſſe-port to glory.</p>
+            <p>I take it for an honour, and I owe thankfullneſſe to thoſe under whoſe power I am, that they have ſent me hither to a place however of puniſh<g ref="char:EOLhyphen"/>ment, yet of ſome honour to die a death, exceeding worthy of my blood, anſwerable to my birth and qualification, and this courteſie of theirs, hath much helped towards the pacification of my mind.</p>
+            <p>I ſhall deſire God that thoſe <hi>Gentlemen</hi> in that ſad bedroll to be tried by the high Court of <hi>Juſtice,</hi> that they may find that really <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> no<g ref="char:EOLhyphen"/>minall in the Act: An high Court of <hi>Juſtice,</hi> a Court of high <hi>Juſtice,</hi> high in its righteouſneſs, though not in its ſeverity, <hi>Father forgive them, and for<g ref="char:EOLhyphen"/>give me as I forgive them.</hi>
+            </p>
+            <pb n="3" facs="tcp:117452:3"/>
+            <p>I deſire you that you would pray for me, and not give over praying till the hour of death, nor till the minute of death, for the hour is come alrea<g ref="char:EOLhyphen"/>dy, that as I have a very great load of ſins; ſo I may have the wings of your prayers, to help thoſe Angels that are to convey my ſoul to Heaven, hoping this day to ſee Chriſt in the preſence of the Father, and my ſelf there to re<g ref="char:EOLhyphen"/>joyce with all other Saints and Angels for evermore.</p>
+            <p>One thing more I deſire to be clear in. There lieth a common imputa<g ref="char:EOLhyphen"/>tion upon the Kings party, that they are Papiſts, and under that name we are made odious to thoſe of the contrary opinion. I am not a Papiſt, but renounce the Pope with all his dependencies; when the diſtractions in Re<g ref="char:EOLhyphen"/>ligion firſt ſprang up, I might have been thought apt to to turn from this Church to the <hi>Roman,</hi> but was utterly unſatisfied in their Doctrine, in point of faith, and very much, as to their Diſſipline. The Religion which I profeſs is that which paſſeth under the name of <hi>Proteſtant,</hi> though that be rather a name of diſtinction, then properly eſſential to Religion. But the Rellgion which was found out in the Reformation purged from all the errours of <hi>Rome,</hi> in the Reign of <hi>Edward</hi> the 6. practiſed in the Reigns of Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth,</hi> King <hi>James,</hi> and King <hi>Charles,</hi> that bleſſed Prince deceaſed, that Re<g ref="char:EOLhyphen"/>ligion before it was defaced. I am of which I take to be Chriſts Catholique, though not the Roman Catholique Religion: in the profeſſion and practice whereof, I will live and die, that for my Religion. Then he turned himſelf unto the Executioner, I have no reaſon to quarrell with thee, thou art not the hand that throws the ſtone, — <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> there is 3 l. for thee, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Now tell me what I lack. <hi>Executi<g ref="char:EOLhyphen"/>oner. Yo<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>air to be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>urned up my Lord, Shew me how to fit my ſelf upon the block. After which his doublet being of, and hair turned up, he turned again to the People, and prayed a good while. Before he laid down upon the block, he ſpake again to the People, viz:</hi> There is not one face that looks upon me, though many faces, and perhaps different from me in opinion and practice, but (me thinks) hath ſomething of pitty in it, and may that mercy which is in your hearts, fall into your own boſomes when you have need of it; and may you never find ſuch blocks of ſin to ſtand in the way of your mercy, as I have met with. I beſeech you joyn with me in prayer. Then he prayed (leaning on the Scaffold) with an audible voice for about a quar<g ref="char:EOLhyphen"/>ter of an hour; having done, he had ſome private conference with Dr <hi>Green,</hi> then taking his leave of his friends,—, and acquaintance, ſaluting them all with a courteous valediction, he prepared himſelf for the block, kneeling down ſaid, let me try the block, which he did, after caſting his eyes up, and fixing them very intentively upon Heaven, he ſaid, when I ſay Lord Jeſus receive me, Executioner do thine Office, then kiſſing the Ax he laid down, and with as much undaunted, yet Chriſtian courage as poſſibly could be in man, did he expoſe his threat to the fatall Ax, his life to the Executioner, and commended his ſoul into the hands of God, as in<g ref="char:EOLhyphen"/>to the hands of a faithfull and mercifull Creator, through the meritorious paſſion of a <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>acious Redeemer, ſaying the forementioned words; his head was ſmitten off at one blow.</p>
+         </div>
+         <div type="sermon">
+            <pb n="4" facs="tcp:117452:4"/>
+            <head>The Earl of <hi>Derby</hi> his Funeral Sermon: Preached by Doctor <hi>Green,</hi> on Tueſday in the Afternoon before his Lordſhip was executed.</head>
+            <p>Beloved, when we come to die, we ſhall be ſtript naked of three things,</p>
+            <p n="1">1. We ſhall be ſtript naked of all our worldly honour, riches and great<g ref="char:EOLhyphen"/>neſſe. 2. We ſhall be ſtript naked of our bodies. And 3. Which is above all, we ſhall be ſtript naked of our ſins. And that is the happines of a child of God, he ſhall put off, not only his mortal body, but the body of ſin.</p>
+            <p n="4">4. In the fourth place obſerve, As no man knoweth the time when he fals aſleep, a man fals aſleep before he is aware: So no man can tell the cer<g ref="char:EOLhyphen"/>tain time when he muſt die. There is nothing ſo certain as that we muſt die, nothing ſo uncertain as the time when we ſhall die; Death comes ſuddenly even as ſleep comes upon a man before he is aware.</p>
+            <p n="4">4. When a man goeth to ſleep, he goeth to ſleep but for a certain time, in the morning he awakes out of ſleep. So it is with the ſleep of death; and therefore death is called a ſleep, becauſe we muſt all awake in the mor<g ref="char:EOLhyphen"/>ning of the reſurrection. We are in the grave, as in our beds and when the trumpet of God, and the voice of the Archangel ſhall ſound, we ſhall all riſe out of our grave, as out of our beds. Death is but a ſleep for a cer<g ref="char:EOLhyphen"/>tain time.</p>
+            <p n="5">5. Sleep is a great refreſhing to thoſe that are weary and ſick, and when the ſick man awakes, he is more lively and chearful then he was when he fell aſleep; and therefore ſleep is called <hi>Medicus laborum, redinte gratio virium, recreator corporum,</hi> The great Phyſician of the ſick body, the re<g ref="char:EOLhyphen"/>dinte-gration of mans ſpirits, the reviver of the weary body. And ſo it is with death, when Gods people awake out of the ſleep of death, they ſhall be made active for God, then ever they were before; when you lie down in the grave, you lie down with mortal bodies; <hi>It it ſown a morta body, but it ſhall riſe up an immortal body, it is ſown in diſhonour, but it ſhall riſe up in ho<g ref="char:EOLhyphen"/>nour; it is ſown a natural body, but it ſhall riſe up a ſpiritual body.</hi>
+            </p>
+            <p n="6">6 When we riſe out of our beds, we then put on our Cloathes So in the morning of the reſurrection, we ſhall put on a a glorious body, like to the glorious body of Jeſus Chriſt, we ſhall put on <hi>Stolam immortalitatis,</hi> the garment of immortality.</p>
+            <p n="7">7 As no man when he layeth him down to ſleep, knoweth the direct time when he ſhall awake. So no man can tell when the reſurrection ſhall be. They do but couzen you, who ſay, that the general reſurrection ſhall be ſuch or ſuch a year; for, as no man can know the minute when he ſhall awake out of his natural ſleep, no more can any man know when we ſhall ariſe from the ſleep of death.</p>
+            <p n="8">8. It is a very eaſie thing to awake a man out of ſleep, it is but jog<g ref="char:EOLhyphen"/>ging of him and you will quickly awake him.</p>
+            <p n="9">9 As when a man ariſeth in the morning, though he hath ſlept many hours; nay, ſuppoſe he could ſleep 20 years together, yet notwithſtand<g ref="char:EOLhyphen"/>ing,
+<pb n="5" facs="tcp:117452:4"/> when he awakes, theſe 20 years will ſeem to be but as one hour unto him. So it will be at the day of Judgment, all thoſe that are in their graves, when they awake, it will be <hi>tanquam ſomnus unius horae,</hi> but as the ſleep of an hour unto them.</p>
+            <p>Laſtly, and moſt eſpecially, As ſleep ſeizeth onely upon the body, and the outward ſenſes, but doth not ſeiz upon the ſoul, the ſoul of man is ma<g ref="char:EOLhyphen"/>ny times moſt buſie, when the man is aſleep; And God hath heretofore revealed moſt glorious things to his children in dreams, when they have bin aſleep; God appeared unto <hi>Abraham</hi> and many others in dreams, the body ſleeps, but the ſoul awakes. So it is with the ſleep of death, the bo<g ref="char:EOLhyphen"/>dy that dies, but the ſoul doth not die. There are ſome men that are not afraid to teach you, That the ſoul ſleeps as well as the body and that when the body dies and fals aſleep, the ſoul likewiſe continues in a dull Lethorgy <hi>veterno<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mno correptus,</hi> neither capable of ioy nor ſorrow, untill the re<g ref="char:EOLhyphen"/>ſurrection. Beloved, This is a very uncomfortable, and a very falſe Do<g ref="char:EOLhyphen"/>ctrine. They indeavour to prove it from my Text, they ſay, That <hi>Stephen</hi> when he died fell aſleep; It is true in regard of his body, he ſell aſleep, but his ſoul did not fall aſleep, that which was ſtoned fell aſleep, which was his body onely; for when he was ſtoning, he ſaw Jeſus Chriſt ſtanding rea<g ref="char:EOLhyphen"/>dy to receive his ſoul into heaven: Lord Jeſus, ſaith he, <hi>receive my Spirit Stephens</hi> ſoul could not be ſtoned, though his body was ſtoned. So when I<g ref="char:EOLunhyphen"/>eſus Chriſt was crucified, his ſoul was not crucified. I mean, when his bo<g ref="char:EOLhyphen"/>dy was killed, his ſoul was not killed: indeed he did endure torments in his ſoul, which made him cry out, <hi>My God, my God why haſt thou forſaken me?</hi> But yet his ſoul did not die. So when Stephen died, his ſoul went to Chriſt. It is true, when a child of God dies, the ſoul goes to ſleep; How is that? The ſoul goes to ſleep in a Scripture-ſenſe, that is, it goes to reſt in Abrahams boſom (O bleſſed ſleep) it goes to reſt in the imbraces of God, it goes into the arms of its Redeemer, it goes to the heavenly Para<g ref="char:EOLhyphen"/>diſe, it goes to be alwayes preſent with the Lord But take heed of that wicked opinion, to ſay, that the ſoul ſleeps in an Anabaptiſtical ſenſe; that is, That it lies in a ſtrange kind of Lethargy, neither dead, nor alive; nei<g ref="char:EOLhyphen"/>ther capable of ioy nor ſorrow, untill the reſurrection. Though Stephens body fell aſleep, yet his ſoul did not fall aſleep, but immediatly went un<g ref="char:EOLhyphen"/>to Jeſus Chriſt in Heaven. Thus I have given the Explication of the words.</p>
+            <p>Now give me leave to make ſome Application of all unto our ſelve.</p>
+            <p>If the death of Gods children be nothing elſe but a falling aſleep, then let this comfort us againſt the deaths of our godly friends though they die unnatural and violent deaths, though they be ſtoned to death, though they be burnt to aſbes, though they be ſawn aſunder, &amp;c Here is a meſſage of rich conſolation, which as a Miniſter of Chriſt I hold out unto you this day, viz. That the death of a child of God, let it be after what manner ſoveer it will, it is nothing elſe but a falling aſleep; he goes to his grave as to his bed; and therefore our burying places are called <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oimeteria, do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mitoria,</hi> our ſleeping-houſes. A child of God when he dies he lies down in peace, and enters into his reſt.</p>
+            <pb n="6" facs="tcp:117452:5"/>
+            <p>Dr. <hi>Green</hi> (he being upon the Sea fold) ſpake as followeth to the Earl of <hi>Derby.</hi>
+            </p>
+            <p>You have this morning in the preſence of a few, given ſome accompt of your Religion, and under generall notions or words, have given an accompt of your faith, charity, and repentance.</p>
+            <p>To thoſe on the Scaffold, If you pleaſe to hear the ſame queſtions asked here, you ſhall find that it may be a general teſtimony to you all, that he died in the favour of God.</p>
+            <p>Now Sir, I degin to deal with you: you do acknowledg that this ſtroak you are by and by to ſuffer, is a juſt puniſhment laid upon you by God, for your former ſins?</p>
+            <sp>
+               <speaker>Derby,</speaker>
+               <p>I dare not only not deny it, but dare not but confeſs it, I have no opportunity of glorifying God more, then by taking ſhame to my ſelf, and I have a reaſon of the Juſtice of God in my own boſome, which I have put to your boſome.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>You acknowledg you deſerve more then this ſtroak hf the Ax, and that a far greater miſery is due to you, even the pains and torments of Hell that the damned there endure?</p>
+            </sp>
+            <sp>
+               <speaker>Derby.</speaker>
+               <p>I know it is due in righteous judgment, but I knw again, I have a ſatisfaction made by my elder Brother <hi>Chriſt Jeſus,</hi> and then I ſay it is not due, tis due from me, but quitted by his righteouſneſſe.</p>
+            </sp>
+            <sp>
+               <speaker>Doctor.</speaker>
+               <p>Do you believe to be ſaved by that Mediatot and none others?</p>
+            </sp>
+            <sp>
+               <speaker>Derby,</speaker>
+               <p>By that and that only, renouncing all ſecondary cauſes whatſoever.</p>
+            </sp>
+            <sp>
+               <speaker>Doct.</speaker>
+               <p>Are you truly and unfainedly ſorry before God, as you appear to us, for all thoſe ſins that have brought you hither?</p>
+            </sp>
+            <sp>
+               <speaker>Derby.</speaker>
+               <p>I am ſorry, and can never be ſorrowfull enough, and am ſorry I can be no more ſorty.</p>
+            </sp>
+            <p>On Satturday laſt came intelligence of the King of Scots arrival at the Hague in Holland: And of his taking Shipping at Graveſ-end on the fourth of this inſtant October, being diſguiſed in a Sea-mans Apparel.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
